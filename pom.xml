@@ -28,6 +28,7 @@
 			    <configuration>
 			        <deploymentType>cloudhub</deploymentType>
 			        <muleVersion>3.7.3</muleVersion>
+			        <applicationName>maven-project-ero</applicationName>
 			        <username>evin-ozer__atg</username>
 			        <password>2017@Anypoint</password>
 				 	<workerType>Micro</workerType>
